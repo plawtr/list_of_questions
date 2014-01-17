@@ -1,0 +1,1 @@
+A branch is a series of parallel commits that can be merged into a master.
