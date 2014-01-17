@@ -1,1 +1,1 @@
-Explain Clone?
+Git clone is a command that pushes a repo locally and initializes a git repo.
