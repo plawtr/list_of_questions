@@ -1,0 +1,1 @@
+Upstream is a repo that is used to fork projects from (which can be cloned locally), and then pull requests can be requested, which allows for a small number of developers to manage the creation of open source software.
